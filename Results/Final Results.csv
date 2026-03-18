@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1773808842788,1922,HTTP Request,200,OK,Thread Group 1-2,text,true,,97818,272,30,30,https://karaokeivan.com/index.php/login/,356,0,200
+1773808842788,356,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,1220,136,30,30,http://karaokeivan.com/index.php/login/,356,0,200
+1773808843146,1564,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,96598,136,30,30,https://karaokeivan.com/index.php/login/,987,0,324
+1773808842898,1966,HTTP Request,200,OK,Thread Group 1-3,text,true,,97810,272,31,31,https://karaokeivan.com/index.php/login/,335,0,167
+1773808842898,335,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,1220,136,31,31,http://karaokeivan.com/index.php/login/,335,0,167
+1773808843234,1630,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,96590,136,31,31,https://karaokeivan.com/index.php/login/,1196,0,362
+1773808843304,1899,HTTP Request,200,OK,Thread Group 1-7,text,true,,97817,272,33,33,https://karaokeivan.com/index.php/login/,311,0,155
+1773808843304,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,311,0,155
+1773808843616,1587,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,96597,136,33,33,https://karaokeivan.com/index.php/login/,1012,0,351
+1773808842687,2545,HTTP Request,200,OK,Thread Group 1-1,text,true,,97818,272,33,33,https://karaokeivan.com/index.php/login/,452,0,295
+1773808842687,452,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,452,0,295
+1773808843141,2091,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,96598,136,33,33,https://karaokeivan.com/index.php/login/,1518,0,353
+1773808843506,1830,HTTP Request,200,OK,Thread Group 1-9,text,true,,97810,272,33,33,https://karaokeivan.com/index.php/login/,313,0,156
+1773808843506,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,313,0,156
+1773808843820,1516,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,96590,136,33,33,https://karaokeivan.com/index.php/login/,1131,0,326
+1773808842990,2374,HTTP Request,200,OK,Thread Group 1-4,text,true,,97817,272,32,32,https://karaokeivan.com/index.php/login/,337,0,168
+1773808842990,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,1220,136,32,32,http://karaokeivan.com/index.php/login/,337,0,168
+1773808843328,2036,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,96597,136,32,32,https://karaokeivan.com/index.php/login/,1480,0,324
+1773808843896,1853,HTTP Request,200,OK,Thread Group 1-13,text,true,,97810,272,35,35,https://karaokeivan.com/index.php/login/,334,0,170
+1773808843896,334,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,334,0,170
+1773808844231,1518,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,96590,136,35,35,https://karaokeivan.com/index.php/login/,1133,0,331
+1773808843996,1846,HTTP Request,200,OK,Thread Group 1-14,text,true,,97810,272,35,35,https://karaokeivan.com/index.php/login/,308,0,155
+1773808843996,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,308,0,155
+1773808844305,1537,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,96590,136,35,35,https://karaokeivan.com/index.php/login/,1141,0,335
+1773808843100,2858,HTTP Request,200,OK,Thread Group 1-5,text,true,,97818,272,35,35,https://karaokeivan.com/index.php/login/,313,0,151
+1773808843100,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,313,0,151
+1773808843414,2544,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,96598,136,35,35,https://karaokeivan.com/index.php/login/,1994,0,352
+1773808843224,2835,HTTP Request,200,OK,Thread Group 1-6,text,true,,97810,272,35,35,https://karaokeivan.com/index.php/login/,304,0,153
+1773808843224,304,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,304,0,153
+1773808843529,2530,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,96590,136,35,35,https://karaokeivan.com/index.php/login/,2141,0,331
+1773808844412,1863,HTTP Request,200,OK,Thread Group 1-18,text,true,,97817,272,36,36,https://karaokeivan.com/index.php/login/,345,0,173
+1773808844412,345,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,1220,136,36,36,http://karaokeivan.com/index.php/login/,345,0,173
+1773808844758,1517,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,96597,136,36,36,https://karaokeivan.com/index.php/login/,973,0,314
+1773808844611,1827,HTTP Request,200,OK,Thread Group 1-20,text,true,,97811,272,37,37,https://karaokeivan.com/index.php/login/,335,0,165
+1773808844611,335,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,335,0,165
+1773808844947,1491,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,96591,136,37,37,https://karaokeivan.com/index.php/login/,1109,0,309
+1773808844096,2370,HTTP Request,200,OK,Thread Group 1-15,text,true,,97811,272,36,36,https://karaokeivan.com/index.php/login/,310,0,151
+1773808844096,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,1221,136,36,36,http://karaokeivan.com/index.php/login/,310,0,151
+1773808844407,2059,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,96590,136,36,36,https://karaokeivan.com/index.php/login/,1655,0,331
+1773808844728,1927,HTTP Request,200,OK,Thread Group 1-21,text,true,,97810,272,37,37,https://karaokeivan.com/index.php/login/,319,0,159
+1773808844728,319,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,319,0,159
+1773808845048,1607,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,96590,136,37,37,https://karaokeivan.com/index.php/login/,1180,0,361
+1773808844920,1923,HTTP Request,200,OK,Thread Group 1-23,text,true,,97818,272,38,38,https://karaokeivan.com/index.php/login/,330,0,161
+1773808844920,330,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,1221,136,38,38,http://karaokeivan.com/index.php/login/,330,0,161
+1773808845251,1592,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,96597,136,38,38,https://karaokeivan.com/index.php/login/,1002,0,349
+1773808843599,3376,HTTP Request,200,OK,Thread Group 1-10,text,true,,97811,272,38,38,https://karaokeivan.com/index.php/login/,340,0,173
+1773808843599,340,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,1220,136,38,38,http://karaokeivan.com/index.php/login/,340,0,173
+1773808843942,3033,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,96591,136,38,38,https://karaokeivan.com/index.php/login/,2639,0,331
+1773808843730,3373,HTTP Request,200,OK,Thread Group 1-11,text,true,,97818,272,38,38,https://karaokeivan.com/index.php/login/,337,0,168
+1773808843730,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,1221,136,38,38,http://karaokeivan.com/index.php/login/,337,0,168
+1773808844068,3035,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,96597,136,38,38,https://karaokeivan.com/index.php/login/,2482,0,332
+1773808843795,3347,HTTP Request,200,OK,Thread Group 1-12,text,true,,97810,272,38,38,https://karaokeivan.com/index.php/login/,311,0,158
+1773808843795,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,1220,136,38,38,http://karaokeivan.com/index.php/login/,311,0,158
+1773808844107,3035,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,96590,136,38,38,https://karaokeivan.com/index.php/login/,2639,0,333
+1773808844512,2907,HTTP Request,200,OK,Thread Group 1-19,text,true,,97810,272,40,40,https://karaokeivan.com/index.php/login/,306,0,152
+1773808844512,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,306,0,152
+1773808844819,2600,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,96590,136,40,40,https://karaokeivan.com/index.php/login/,2172,0,352
+1773808844215,3375,HTTP Request,200,OK,Thread Group 1-16,text,true,,97811,272,40,40,https://karaokeivan.com/index.php/login/,317,0,156
+1773808844215,317,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,317,0,156
+1773808844534,3056,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,96591,136,40,40,https://karaokeivan.com/index.php/login/,2669,0,319
+1773808845316,2333,HTTP Request,200,OK,Thread Group 1-27,text,true,,97811,272,40,40,https://karaokeivan.com/index.php/login/,303,0,151
+1773808845316,303,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,1221,136,40,40,http://karaokeivan.com/index.php/login/,303,0,151
+1773808845620,2029,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,96590,136,40,40,https://karaokeivan.com/index.php/login/,1628,0,324
+1773808844812,2955,HTTP Request,200,OK,Thread Group 1-22,text,true,,97810,272,40,40,https://karaokeivan.com/index.php/login/,311,0,158
+1773808844812,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,311,0,158
+1773808845123,2644,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,96590,136,40,40,https://karaokeivan.com/index.php/login/,2253,0,318
+1773808845113,2868,HTTP Request,200,OK,Thread Group 1-25,text,true,,97810,272,41,41,https://karaokeivan.com/index.php/login/,338,0,167
+1773808845113,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,1220,136,41,41,http://karaokeivan.com/index.php/login/,338,0,167
+1773808845451,2530,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,96590,136,41,41,https://karaokeivan.com/index.php/login/,2143,0,338
+1773808845719,2421,HTTP Request,200,OK,Thread Group 1-31,text,true,,97811,272,42,42,https://karaokeivan.com/index.php/login/,316,0,155
+1773808845719,316,HTTP Request-0,301,Moved Permanently,Thread Group 1-31,text,true,,1220,136,42,42,http://karaokeivan.com/index.php/login/,316,0,155
+1773808846036,2104,HTTP Request-1,200,OK,Thread Group 1-31,text,true,,96591,136,42,42,https://karaokeivan.com/index.php/login/,1675,0,359
+1773808843413,4875,HTTP Request,200,OK,Thread Group 1-8,text,true,,97811,272,42,42,https://karaokeivan.com/index.php/login/,339,0,157
+1773808843413,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,1221,136,42,42,http://karaokeivan.com/index.php/login/,339,0,157
+1773808843753,4535,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,96590,136,42,42,https://karaokeivan.com/index.php/login/,4137,0,330
+1773808845016,3325,HTTP Request,200,OK,Thread Group 1-24,text,true,,97810,272,42,42,https://karaokeivan.com/index.php/login/,308,0,152
+1773808845016,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,1220,136,42,42,http://karaokeivan.com/index.php/login/,308,0,152
+1773808845325,3016,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,96590,136,42,42,https://karaokeivan.com/index.php/login/,2648,0,343
+1773808846210,2341,HTTP Request,200,OK,Thread Group 1-36,text,true,,97810,272,43,43,https://karaokeivan.com/index.php/login/,318,0,156
+1773808846210,318,HTTP Request-0,301,Moved Permanently,Thread Group 1-36,text,true,,1220,136,43,43,http://karaokeivan.com/index.php/login/,318,0,156
+1773808846530,2021,HTTP Request-1,200,OK,Thread Group 1-36,text,true,,96590,136,43,43,https://karaokeivan.com/index.php/login/,1638,0,331
+1773808845221,3394,HTTP Request,200,OK,Thread Group 1-26,text,true,,97812,272,43,43,https://karaokeivan.com/index.php/login/,310,0,158
+1773808845221,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,1221,136,43,43,http://karaokeivan.com/index.php/login/,310,0,158
+1773808845532,3083,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,96591,136,43,43,https://karaokeivan.com/index.php/login/,2669,0,355
+1773808846415,2427,HTTP Request,200,OK,Thread Group 1-38,text,true,,97810,272,44,44,https://karaokeivan.com/index.php/login/,313,0,155
+1773808846415,314,HTTP Request-0,301,Moved Permanently,Thread Group 1-38,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,313,0,155
+1773808846730,2112,HTTP Request-1,200,OK,Thread Group 1-38,text,true,,96590,136,44,44,https://karaokeivan.com/index.php/login/,1691,0,371
+1773808845519,3396,HTTP Request,200,OK,Thread Group 1-29,text,true,,97810,272,44,44,https://karaokeivan.com/index.php/login/,346,0,174
+1773808845519,346,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,346,0,174
+1773808845866,3049,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,96590,136,44,44,https://karaokeivan.com/index.php/login/,2668,0,333
+1773808846717,2425,HTTP Request,200,OK,Thread Group 1-41,text,true,,97817,272,45,45,https://karaokeivan.com/index.php/login/,322,0,163
+1773808846717,322,HTTP Request-0,301,Moved Permanently,Thread Group 1-41,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,322,0,163
+1773808847040,2102,HTTP Request-1,200,OK,Thread Group 1-41,text,true,,96597,136,45,45,https://karaokeivan.com/index.php/login/,1512,0,357
+1773808847204,1956,HTTP Request,200,OK,Thread Group 1-46,text,true,,97811,272,44,44,https://karaokeivan.com/index.php/login/,347,0,169
+1773808847204,347,HTTP Request-0,301,Moved Permanently,Thread Group 1-46,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,347,0,169
+1773808847552,1608,HTTP Request-1,200,OK,Thread Group 1-46,text,true,,96591,136,44,44,https://karaokeivan.com/index.php/login/,1178,0,355
+1773808847504,1882,HTTP Request,200,OK,Thread Group 1-49,text,true,,97817,272,45,45,https://karaokeivan.com/index.php/login/,309,0,158
+1773808847504,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-49,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,309,0,158
+1773808847813,1573,HTTP Request-1,200,OK,Thread Group 1-49,text,true,,96597,136,45,45,https://karaokeivan.com/index.php/login/,1012,0,359
+1773808847107,2440,HTTP Request,200,OK,Thread Group 1-45,text,true,,97818,272,46,46,https://karaokeivan.com/index.php/login/,348,0,174
+1773808847107,348,HTTP Request-0,301,Moved Permanently,Thread Group 1-45,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,348,0,174
+1773808847456,2091,HTTP Request-1,200,OK,Thread Group 1-45,text,true,,96597,136,46,46,https://karaokeivan.com/index.php/login/,1515,0,355
+1773808845811,3853,HTTP Request,200,OK,Thread Group 1-32,text,true,,97811,272,46,46,https://karaokeivan.com/index.php/login/,327,0,162
+1773808845811,327,HTTP Request-0,301,Moved Permanently,Thread Group 1-32,text,true,,1220,136,46,46,http://karaokeivan.com/index.php/login/,327,0,162
+1773808846139,3525,HTTP Request-1,200,OK,Thread Group 1-32,text,true,,96591,136,46,46,https://karaokeivan.com/index.php/login/,3112,0,312
+1773808844309,5444,HTTP Request,200,OK,Thread Group 1-17,text,true,,97810,272,46,46,https://karaokeivan.com/index.php/login/,370,0,185
+1773808844309,370,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,1220,136,46,46,http://karaokeivan.com/index.php/login/,370,0,185
+1773808844680,5073,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,96590,136,46,46,https://karaokeivan.com/index.php/login/,4662,0,343
+1773808846022,3888,HTTP Request,200,OK,Thread Group 1-34,text,true,,97811,272,47,47,https://karaokeivan.com/index.php/login/,355,0,178
+1773808846022,355,HTTP Request-0,301,Moved Permanently,Thread Group 1-34,text,true,,1221,136,47,47,http://karaokeivan.com/index.php/login/,355,0,178
+1773808846378,3532,HTTP Request-1,200,OK,Thread Group 1-34,text,true,,96590,136,47,47,https://karaokeivan.com/index.php/login/,3138,0,336
+1773808847710,2444,HTTP Request,200,OK,Thread Group 1-51,text,true,,97811,272,48,48,https://karaokeivan.com/index.php/login/,324,0,160
+1773808847710,324,HTTP Request-0,301,Moved Permanently,Thread Group 1-51,text,true,,1221,136,48,48,http://karaokeivan.com/index.php/login/,324,0,160
+1773808848035,2119,HTTP Request-1,200,OK,Thread Group 1-51,text,true,,96590,136,48,48,https://karaokeivan.com/index.php/login/,1688,0,361
+1773808847803,2384,HTTP Request,200,OK,Thread Group 1-52,text,true,,97818,272,47,47,https://karaokeivan.com/index.php/login/,309,0,155
+1773808847803,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-52,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,309,0,155
+1773808848113,2074,HTTP Request-1,200,OK,Thread Group 1-52,text,true,,96598,136,47,47,https://karaokeivan.com/index.php/login/,1505,0,349
+1773808845914,4372,HTTP Request,200,OK,Thread Group 1-33,text,true,,97817,272,47,47,https://karaokeivan.com/index.php/login/,351,0,174
+1773808845914,351,HTTP Request-0,301,Moved Permanently,Thread Group 1-33,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,351,0,174
+1773808846265,4021,HTTP Request-1,200,OK,Thread Group 1-33,text,true,,96597,136,47,47,https://karaokeivan.com/index.php/login/,3476,0,326
+1773808848113,2314,HTTP Request,200,OK,Thread Group 1-55,text,true,,97817,272,48,48,https://karaokeivan.com/index.php/login/,317,0,163
+1773808848113,317,HTTP Request-0,301,Moved Permanently,Thread Group 1-55,text,true,,1220,136,48,48,http://karaokeivan.com/index.php/login/,317,0,163
+1773808848430,1997,HTTP Request-1,200,OK,Thread Group 1-55,text,true,,96597,136,48,48,https://karaokeivan.com/index.php/login/,1470,0,325
+1773808847303,3397,HTTP Request,200,OK,Thread Group 1-47,text,true,,97818,272,50,50,https://karaokeivan.com/index.php/login/,339,0,171
+1773808847303,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-47,text,true,,1221,136,50,50,http://karaokeivan.com/index.php/login/,339,0,171
+1773808847644,3056,HTTP Request-1,200,OK,Thread Group 1-47,text,true,,96597,136,50,50,https://karaokeivan.com/index.php/login/,2512,0,333
+1773808846805,3934,HTTP Request,200,OK,Thread Group 1-42,text,true,,97819,272,49,49,https://karaokeivan.com/index.php/login/,320,0,159
+1773808846805,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-42,text,true,,1221,136,49,49,http://karaokeivan.com/index.php/login/,320,0,159
+1773808847126,3613,HTTP Request-1,200,OK,Thread Group 1-42,text,true,,96598,136,49,49,https://karaokeivan.com/index.php/login/,3023,0,348
+1773808848995,1905,HTTP Request,200,OK,Thread Group 1-64,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,310,0,156
+1773808848995,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-64,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,310,0,156
+1773808849306,1594,HTTP Request-1,200,OK,Thread Group 1-64,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,1172,0,355
+1773808845614,5413,HTTP Request,200,OK,Thread Group 1-30,text,true,,97818,272,50,50,https://karaokeivan.com/index.php/login/,312,0,160
+1773808845614,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,1221,136,50,50,http://karaokeivan.com/index.php/login/,312,0,160
+1773808845927,5100,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,96597,136,50,50,https://karaokeivan.com/index.php/login/,4511,0,351
+1773808848403,2900,HTTP Request,200,OK,Thread Group 1-58,text,true,,97818,272,52,52,https://karaokeivan.com/index.php/login/,310,0,156
+1773808848811,2449,HTTP Request,200,OK,Thread Group 1-62,text,true,,97819,272,51,51,https://karaokeivan.com/index.php/login/,339,0,173
+1773808848403,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-58,text,true,,1221,136,52,52,http://karaokeivan.com/index.php/login/,310,0,156
+1773808848811,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-62,text,true,,1221,136,51,51,http://karaokeivan.com/index.php/login/,339,0,173
+1773808848714,2589,HTTP Request-1,200,OK,Thread Group 1-58,text,true,,96597,136,52,52,https://karaokeivan.com/index.php/login/,2026,0,352
+1773808849152,2108,HTTP Request-1,200,OK,Thread Group 1-62,text,true,,96598,136,51,51,https://karaokeivan.com/index.php/login/,1515,0,359
+1773808848004,3408,HTTP Request,200,OK,Thread Group 1-54,text,true,,97817,272,51,51,https://karaokeivan.com/index.php/login/,310,0,156
+1773808848004,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-54,text,true,,1220,136,51,51,http://karaokeivan.com/index.php/login/,310,0,156
+1773808848315,3097,HTTP Request-1,200,OK,Thread Group 1-54,text,true,,96597,136,51,51,https://karaokeivan.com/index.php/login/,2517,0,353
+1773808849795,1897,HTTP Request,200,OK,Thread Group 1-72,text,true,,97817,272,52,52,https://karaokeivan.com/index.php/login/,319,0,162
+1773808849795,319,HTTP Request-0,301,Moved Permanently,Thread Group 1-72,text,true,,1220,136,52,52,http://karaokeivan.com/index.php/login/,319,0,162
+1773808850115,1577,HTTP Request-1,200,OK,Thread Group 1-72,text,true,,96597,136,52,52,https://karaokeivan.com/index.php/login/,1010,0,352
+1773808849397,2346,HTTP Request,200,OK,Thread Group 1-68,text,true,,97819,272,51,51,https://karaokeivan.com/index.php/login/,325,0,164
+1773808849397,325,HTTP Request-0,301,Moved Permanently,Thread Group 1-68,text,true,,1221,136,51,51,http://karaokeivan.com/index.php/login/,325,0,164
+1773808849726,2017,HTTP Request-1,200,OK,Thread Group 1-68,text,true,,96598,136,51,51,https://karaokeivan.com/index.php/login/,1472,0,336
+1773808848910,2851,HTTP Request,200,OK,Thread Group 1-63,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,314,0,159
+1773808848910,314,HTTP Request-0,301,Moved Permanently,Thread Group 1-63,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,314,0,159
+1773808849226,2535,HTTP Request-1,200,OK,Thread Group 1-63,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,2159,0,347
+1773808849095,2935,HTTP Request,200,OK,Thread Group 1-65,text,true,,97817,272,49,49,https://karaokeivan.com/index.php/login/,351,0,177
+1773808849095,351,HTTP Request-0,301,Moved Permanently,Thread Group 1-65,text,true,,1220,136,49,49,http://karaokeivan.com/index.php/login/,351,0,177
+1773808849447,2583,HTTP Request-1,200,OK,Thread Group 1-65,text,true,,96597,136,49,49,https://karaokeivan.com/index.php/login/,2018,0,358
+1773808848304,3919,HTTP Request,200,OK,Thread Group 1-57,text,true,,97810,272,48,48,https://karaokeivan.com/index.php/login/,312,0,153
+1773808848304,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-57,text,true,,1220,136,48,48,http://karaokeivan.com/index.php/login/,312,0,153
+1773808848618,3605,HTTP Request-1,200,OK,Thread Group 1-57,text,true,,96590,136,48,48,https://karaokeivan.com/index.php/login/,3175,0,351
+1773808845421,6821,HTTP Request,200,OK,Thread Group 1-28,text,true,,97810,272,47,47,https://karaokeivan.com/index.php/login/,313,0,158
+1773808845421,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,313,0,158
+1773808845736,6506,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,96590,136,47,47,https://karaokeivan.com/index.php/login/,6126,0,319
+1773808847905,4413,HTTP Request,200,OK,Thread Group 1-53,text,true,,97811,272,46,46,https://karaokeivan.com/index.php/login/,316,0,159
+1773808847905,316,HTTP Request-0,301,Moved Permanently,Thread Group 1-53,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,316,0,159
+1773808848226,4092,HTTP Request-1,200,OK,Thread Group 1-53,text,true,,96590,136,46,46,https://karaokeivan.com/index.php/login/,3676,0,357
+1773808846906,5444,HTTP Request,200,OK,Thread Group 1-43,text,true,,97811,272,45,45,https://karaokeivan.com/index.php/login/,345,0,170
+1773808846906,345,HTTP Request-0,301,Moved Permanently,Thread Group 1-43,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,345,0,170
+1773808847252,5098,HTTP Request-1,200,OK,Thread Group 1-43,text,true,,96591,136,45,45,https://karaokeivan.com/index.php/login/,4675,0,364
+1773808849199,3347,HTTP Request,200,OK,Thread Group 1-66,text,true,,97810,272,44,44,https://karaokeivan.com/index.php/login/,312,0,159
+1773808849199,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-66,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,312,0,159
+1773808849513,3033,HTTP Request-1,200,OK,Thread Group 1-66,text,true,,96590,136,44,44,https://karaokeivan.com/index.php/login/,2644,0,327
+1773808846318,6433,HTTP Request,200,OK,Thread Group 1-37,text,true,,97810,272,43,43,https://karaokeivan.com/index.php/login/,311,0,153
+1773808846318,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-37,text,true,,1220,136,43,43,http://karaokeivan.com/index.php/login/,311,0,153
+1773808846630,6121,HTTP Request-1,200,OK,Thread Group 1-37,text,true,,96590,136,43,43,https://karaokeivan.com/index.php/login/,5692,0,369
+1773808850893,1920,HTTP Request,200,OK,Thread Group 1-83,text,true,,97811,272,42,42,https://karaokeivan.com/index.php/login/,339,0,171
+1773808850893,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-83,text,true,,1221,136,42,42,http://karaokeivan.com/index.php/login/,339,0,171
+1773808851234,1579,HTTP Request-1,200,OK,Thread Group 1-83,text,true,,96590,136,42,42,https://karaokeivan.com/index.php/login/,1161,0,347
+1773808849497,3326,HTTP Request,200,OK,Thread Group 1-69,text,true,,97812,272,41,41,https://karaokeivan.com/index.php/login/,311,0,156
+1773808849497,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-69,text,true,,1221,136,41,41,http://karaokeivan.com/index.php/login/,311,0,156
+1773808849809,3014,HTTP Request-1,200,OK,Thread Group 1-69,text,true,,96591,136,41,41,https://karaokeivan.com/index.php/login/,2633,0,326
+1773808846115,6837,HTTP Request,200,OK,Thread Group 1-35,text,true,,97812,272,40,40,https://karaokeivan.com/index.php/login/,318,0,157
+1773808846115,318,HTTP Request-0,301,Moved Permanently,Thread Group 1-35,text,true,,1221,136,40,40,http://karaokeivan.com/index.php/login/,318,0,157
+1773808846433,6519,HTTP Request-1,200,OK,Thread Group 1-35,text,true,,96591,136,40,40,https://karaokeivan.com/index.php/login/,6145,0,331
+1773808851295,1899,HTTP Request,200,OK,Thread Group 1-87,text,true,,97810,272,39,39,https://karaokeivan.com/index.php/login/,309,0,157
+1773808851295,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-87,text,true,,1220,136,39,39,http://karaokeivan.com/index.php/login/,309,0,157
+1773808851605,1589,HTTP Request-1,200,OK,Thread Group 1-87,text,true,,96590,136,39,39,https://karaokeivan.com/index.php/login/,1165,0,355
+1773808849895,3397,HTTP Request,200,OK,Thread Group 1-73,text,true,,97817,272,38,38,https://karaokeivan.com/index.php/login/,315,0,160
+1773808849895,315,HTTP Request-0,301,Moved Permanently,Thread Group 1-73,text,true,,1220,136,38,38,http://karaokeivan.com/index.php/login/,315,0,160
+1773808850212,3080,HTTP Request-1,200,OK,Thread Group 1-73,text,true,,96597,136,38,38,https://karaokeivan.com/index.php/login/,2515,0,360
+1773808847007,6331,HTTP Request,200,OK,Thread Group 1-44,text,true,,97811,272,37,37,https://karaokeivan.com/index.php/login/,343,0,173
+1773808847007,343,HTTP Request-0,301,Moved Permanently,Thread Group 1-44,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,343,0,173
+1773808847351,5987,HTTP Request-1,200,OK,Thread Group 1-44,text,true,,96591,136,37,37,https://karaokeivan.com/index.php/login/,5617,0,317
+1773808846521,6863,HTTP Request,200,OK,Thread Group 1-39,text,true,,97811,272,36,36,https://karaokeivan.com/index.php/login/,339,0,164
+1773808846521,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-39,text,true,,1220,136,36,36,http://karaokeivan.com/index.php/login/,339,0,164
+1773808846860,6524,HTTP Request-1,200,OK,Thread Group 1-39,text,true,,96591,136,36,36,https://karaokeivan.com/index.php/login/,6134,0,331
+1773808850992,2421,HTTP Request,200,OK,Thread Group 1-84,text,true,,97810,272,35,35,https://karaokeivan.com/index.php/login/,317,0,152
+1773808850992,317,HTTP Request-0,301,Moved Permanently,Thread Group 1-84,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,317,0,152
+1773808851311,2102,HTTP Request-1,200,OK,Thread Group 1-84,text,true,,96590,136,35,35,https://karaokeivan.com/index.php/login/,1678,0,363
+1773808846618,6853,HTTP Request,200,OK,Thread Group 1-40,text,true,,97819,272,34,34,https://karaokeivan.com/index.php/login/,327,0,162
+1773808846618,327,HTTP Request-0,301,Moved Permanently,Thread Group 1-40,text,true,,1221,136,34,34,http://karaokeivan.com/index.php/login/,327,0,162
+1773808846947,6524,HTTP Request-1,200,OK,Thread Group 1-40,text,true,,96598,136,34,34,https://karaokeivan.com/index.php/login/,5972,0,324
+1773808849295,4350,HTTP Request,200,OK,Thread Group 1-67,text,true,,97817,272,33,33,https://karaokeivan.com/index.php/login/,347,0,174
+1773808849295,347,HTTP Request-0,301,Moved Permanently,Thread Group 1-67,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,347,0,174
+1773808849642,4003,HTTP Request-1,200,OK,Thread Group 1-67,text,true,,96597,136,33,33,https://karaokeivan.com/index.php/login/,3469,0,327
+1773808847404,6380,HTTP Request,200,OK,Thread Group 1-48,text,true,,97817,272,32,32,https://karaokeivan.com/index.php/login/,346,0,169
+1773808847404,346,HTTP Request-0,301,Moved Permanently,Thread Group 1-48,text,true,,1220,136,32,32,http://karaokeivan.com/index.php/login/,346,0,169
+1773808847752,6032,HTTP Request-1,200,OK,Thread Group 1-48,text,true,,96597,136,32,32,https://karaokeivan.com/index.php/login/,5482,0,333
+1773808851999,1887,HTTP Request,200,OK,Thread Group 1-94,text,true,,97817,272,31,31,https://karaokeivan.com/index.php/login/,312,0,156
+1773808851999,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-94,text,true,,1220,136,31,31,http://karaokeivan.com/index.php/login/,312,0,156
+1773808852312,1574,HTTP Request-1,200,OK,Thread Group 1-94,text,true,,96597,136,31,31,https://karaokeivan.com/index.php/login/,1002,0,353
+1773808850501,3434,HTTP Request,200,OK,Thread Group 1-79,text,true,,97811,272,30,30,https://karaokeivan.com/index.php/login/,338,0,172
+1773808850501,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-79,text,true,,1220,136,30,30,http://karaokeivan.com/index.php/login/,338,0,172
+1773808850838,3097,HTTP Request-1,200,OK,Thread Group 1-79,text,true,,96591,136,30,30,https://karaokeivan.com/index.php/login/,2675,0,355
+1773808851394,2840,HTTP Request,200,OK,Thread Group 1-88,text,true,,97811,272,29,29,https://karaokeivan.com/index.php/login/,337,0,169
+1773808851394,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-88,text,true,,1221,136,29,29,http://karaokeivan.com/index.php/login/,337,0,169
+1773808851732,2502,HTTP Request-1,200,OK,Thread Group 1-88,text,true,,96590,136,29,29,https://karaokeivan.com/index.php/login/,2126,0,325
+1773808849997,4340,HTTP Request,200,OK,Thread Group 1-74,text,true,,97810,272,28,28,https://karaokeivan.com/index.php/login/,308,0,156
+1773808849997,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-74,text,true,,1220,136,28,28,http://karaokeivan.com/index.php/login/,308,0,156
+1773808850306,4031,HTTP Request-1,200,OK,Thread Group 1-74,text,true,,96590,136,28,28,https://karaokeivan.com/index.php/login/,3632,0,333
+1773808851095,3303,HTTP Request,200,OK,Thread Group 1-85,text,true,,97811,272,27,27,https://karaokeivan.com/index.php/login/,306,0,152
+1773808851095,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-85,text,true,,1220,136,27,27,http://karaokeivan.com/index.php/login/,306,0,152
+1773808851403,2995,HTTP Request-1,200,OK,Thread Group 1-85,text,true,,96591,136,27,27,https://karaokeivan.com/index.php/login/,2620,0,315
+1773808848508,5913,HTTP Request,200,OK,Thread Group 1-59,text,true,,97810,272,27,27,https://karaokeivan.com/index.php/login/,315,0,159
+1773808848508,315,HTTP Request-0,301,Moved Permanently,Thread Group 1-59,text,true,,1220,136,27,27,http://karaokeivan.com/index.php/login/,315,0,159
+1773808848824,5597,HTTP Request-1,200,OK,Thread Group 1-59,text,true,,96590,136,27,27,https://karaokeivan.com/index.php/login/,5177,0,360
+1773808847604,6852,HTTP Request,200,OK,Thread Group 1-50,text,true,,97818,272,25,25,https://karaokeivan.com/index.php/login/,346,0,174
+1773808847604,346,HTTP Request-0,301,Moved Permanently,Thread Group 1-50,text,true,,1220,136,25,25,http://karaokeivan.com/index.php/login/,346,0,174
+1773808847951,6505,HTTP Request-1,200,OK,Thread Group 1-50,text,true,,96598,136,25,25,https://karaokeivan.com/index.php/login/,5970,0,332
+1773808851493,3389,HTTP Request,200,OK,Thread Group 1-89,text,true,,97811,272,24,24,https://karaokeivan.com/index.php/login/,312,0,157
+1773808851493,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-89,text,true,,1221,136,24,24,http://karaokeivan.com/index.php/login/,312,0,157
+1773808851806,3076,HTTP Request-1,200,OK,Thread Group 1-89,text,true,,96590,136,24,24,https://karaokeivan.com/index.php/login/,2671,0,350
+1773808849595,5321,HTTP Request,200,OK,Thread Group 1-70,text,true,,97817,272,23,23,https://karaokeivan.com/index.php/login/,309,0,151
+1773808849595,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-70,text,true,,1220,136,23,23,http://karaokeivan.com/index.php/login/,309,0,151
+1773808849905,5011,HTTP Request-1,200,OK,Thread Group 1-70,text,true,,96597,136,23,23,https://karaokeivan.com/index.php/login/,4466,0,329
+1773808850094,4834,HTTP Request,200,OK,Thread Group 1-75,text,true,,97817,272,22,22,https://karaokeivan.com/index.php/login/,308,0,155
+1773808850094,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-75,text,true,,1220,136,22,22,http://karaokeivan.com/index.php/login/,308,0,155
+1773808850404,4524,HTTP Request-1,200,OK,Thread Group 1-75,text,true,,96597,136,22,22,https://karaokeivan.com/index.php/login/,3980,0,340
+1773808852103,2910,HTTP Request,200,OK,Thread Group 1-95,text,true,,97819,272,21,21,https://karaokeivan.com/index.php/login/,337,0,168
+1773808852103,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-95,text,true,,1221,136,21,21,http://karaokeivan.com/index.php/login/,337,0,168
+1773808852441,2572,HTTP Request-1,200,OK,Thread Group 1-95,text,true,,96598,136,21,21,https://karaokeivan.com/index.php/login/,2004,0,347
+1773808848226,6911,HTTP Request,200,OK,Thread Group 1-56,text,true,,97812,272,20,20,https://karaokeivan.com/index.php/login/,320,0,164
+1773808848226,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-56,text,true,,1221,136,20,20,http://karaokeivan.com/index.php/login/,320,0,164
+1773808848547,6590,HTTP Request-1,200,OK,Thread Group 1-56,text,true,,96591,136,20,20,https://karaokeivan.com/index.php/login/,6175,0,353
+1773808852494,2847,HTTP Request,200,OK,Thread Group 1-99,text,true,,97810,272,19,19,https://karaokeivan.com/index.php/login/,335,0,169
+1773808852494,335,HTTP Request-0,301,Moved Permanently,Thread Group 1-99,text,true,,1220,136,19,19,http://karaokeivan.com/index.php/login/,335,0,169
+1773808852829,2512,HTTP Request-1,200,OK,Thread Group 1-99,text,true,,96590,136,19,19,https://karaokeivan.com/index.php/login/,2135,0,335
+1773808851594,3892,HTTP Request,200,OK,Thread Group 1-90,text,true,,97811,272,18,18,https://karaokeivan.com/index.php/login/,307,0,150
+1773808851594,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-90,text,true,,1221,136,18,18,http://karaokeivan.com/index.php/login/,307,0,150
+1773808851901,3585,HTTP Request-1,200,OK,Thread Group 1-90,text,true,,96590,136,18,18,https://karaokeivan.com/index.php/login/,3170,0,347
+1773808848605,6927,HTTP Request,200,OK,Thread Group 1-60,text,true,,97812,272,17,17,https://karaokeivan.com/index.php/login/,338,0,168
+1773808848605,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-60,text,true,,1221,136,17,17,http://karaokeivan.com/index.php/login/,338,0,168
+1773808848944,6588,HTTP Request-1,200,OK,Thread Group 1-60,text,true,,96591,136,17,17,https://karaokeivan.com/index.php/login/,6179,0,352
+1773808848705,6827,HTTP Request,200,OK,Thread Group 1-61,text,true,,97811,272,17,17,https://karaokeivan.com/index.php/login/,306,0,150
+1773808848705,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-61,text,true,,1220,136,17,17,http://karaokeivan.com/index.php/login/,306,0,150
+1773808849012,6520,HTTP Request-1,200,OK,Thread Group 1-61,text,true,,96591,136,17,17,https://karaokeivan.com/index.php/login/,6133,0,320
+1773808852606,2940,HTTP Request,200,OK,Thread Group 1-100,text,true,,97810,272,15,15,https://karaokeivan.com/index.php/login/,342,0,169
+1773808852606,342,HTTP Request-0,301,Moved Permanently,Thread Group 1-100,text,true,,1220,136,15,15,http://karaokeivan.com/index.php/login/,342,0,169
+1773808852949,2597,HTTP Request-1,200,OK,Thread Group 1-100,text,true,,96590,136,15,15,https://karaokeivan.com/index.php/login/,2176,0,357
+1773808851698,4326,HTTP Request,200,OK,Thread Group 1-91,text,true,,97811,272,14,14,https://karaokeivan.com/index.php/login/,311,0,151
+1773808851698,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-91,text,true,,1221,136,14,14,http://karaokeivan.com/index.php/login/,311,0,151
+1773808852010,4014,HTTP Request-1,200,OK,Thread Group 1-91,text,true,,96590,136,14,14,https://karaokeivan.com/index.php/login/,3628,0,320
+1773808851194,4853,HTTP Request,200,OK,Thread Group 1-86,text,true,,97810,272,13,13,https://karaokeivan.com/index.php/login/,332,0,166
+1773808851194,332,HTTP Request-0,301,Moved Permanently,Thread Group 1-86,text,true,,1220,136,13,13,http://karaokeivan.com/index.php/login/,332,0,166
+1773808851527,4520,HTTP Request-1,200,OK,Thread Group 1-86,text,true,,96590,136,13,13,https://karaokeivan.com/index.php/login/,4137,0,328
+1773808850595,5505,HTTP Request,200,OK,Thread Group 1-80,text,true,,97811,272,12,12,https://karaokeivan.com/index.php/login/,346,0,169
+1773808850595,346,HTTP Request-0,301,Moved Permanently,Thread Group 1-80,text,true,,1220,136,12,12,http://karaokeivan.com/index.php/login/,346,0,169
+1773808850941,5159,HTTP Request-1,200,OK,Thread Group 1-80,text,true,,96591,136,12,12,https://karaokeivan.com/index.php/login/,4720,0,387
+1773808852303,3819,HTTP Request,200,OK,Thread Group 1-97,text,true,,97810,272,11,11,https://karaokeivan.com/index.php/login/,301,0,149
+1773808852303,301,HTTP Request-0,301,Moved Permanently,Thread Group 1-97,text,true,,1220,136,11,11,http://karaokeivan.com/index.php/login/,301,0,149
+1773808852605,3517,HTTP Request-1,200,OK,Thread Group 1-97,text,true,,96590,136,11,11,https://karaokeivan.com/index.php/login/,3131,0,325
+1773808850198,6362,HTTP Request,200,OK,Thread Group 1-76,text,true,,97811,272,10,10,https://karaokeivan.com/index.php/login/,342,0,169
+1773808850198,342,HTTP Request-0,301,Moved Permanently,Thread Group 1-76,text,true,,1221,136,10,10,http://karaokeivan.com/index.php/login/,342,0,169
+1773808850541,6019,HTTP Request-1,200,OK,Thread Group 1-76,text,true,,96590,136,10,10,https://karaokeivan.com/index.php/login/,5647,0,336
+1773808852206,4402,HTTP Request,200,OK,Thread Group 1-96,text,true,,97811,272,9,9,https://karaokeivan.com/index.php/login/,317,0,157
+1773808852206,317,HTTP Request-0,301,Moved Permanently,Thread Group 1-96,text,true,,1220,136,9,9,http://karaokeivan.com/index.php/login/,317,0,157
+1773808852524,4084,HTTP Request-1,200,OK,Thread Group 1-96,text,true,,96591,136,9,9,https://karaokeivan.com/index.php/login/,3673,0,356
+1773808850695,5939,HTTP Request,200,OK,Thread Group 1-81,text,true,,97810,272,8,8,https://karaokeivan.com/index.php/login/,333,0,169
+1773808850695,333,HTTP Request-0,301,Moved Permanently,Thread Group 1-81,text,true,,1220,136,8,8,http://karaokeivan.com/index.php/login/,333,0,169
+1773808851028,5606,HTTP Request-1,200,OK,Thread Group 1-81,text,true,,96590,136,8,8,https://karaokeivan.com/index.php/login/,5180,0,358
+1773808849710,6943,HTTP Request,200,OK,Thread Group 1-71,text,true,,97810,272,7,7,https://karaokeivan.com/index.php/login/,336,0,166
+1773808849710,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-71,text,true,,1220,136,7,7,http://karaokeivan.com/index.php/login/,336,0,166
+1773808850047,6606,HTTP Request-1,200,OK,Thread Group 1-71,text,true,,96590,136,7,7,https://karaokeivan.com/index.php/login/,6187,0,358
+1773808850794,6352,HTTP Request,200,OK,Thread Group 1-82,text,true,,97812,272,6,6,https://karaokeivan.com/index.php/login/,336,0,165
+1773808850794,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-82,text,true,,1221,136,6,6,http://karaokeivan.com/index.php/login/,336,0,165
+1773808851132,6014,HTTP Request-1,200,OK,Thread Group 1-82,text,true,,96591,136,6,6,https://karaokeivan.com/index.php/login/,5628,0,328
+1773808850294,6876,HTTP Request,200,OK,Thread Group 1-77,text,true,,97810,272,5,5,https://karaokeivan.com/index.php/login/,309,0,154
+1773808850294,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-77,text,true,,1220,136,5,5,http://karaokeivan.com/index.php/login/,309,0,154
+1773808850604,6566,HTTP Request-1,200,OK,Thread Group 1-77,text,true,,96590,136,5,5,https://karaokeivan.com/index.php/login/,6160,0,345
+1773808850405,6854,HTTP Request,200,OK,Thread Group 1-78,text,true,,97811,272,4,4,https://karaokeivan.com/index.php/login/,308,0,151
+1773808850405,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-78,text,true,,1220,136,4,4,http://karaokeivan.com/index.php/login/,308,0,151
+1773808850716,6543,HTTP Request-1,200,OK,Thread Group 1-78,text,true,,96591,136,4,4,https://karaokeivan.com/index.php/login/,6153,0,325
+1773808851793,5914,HTTP Request,200,OK,Thread Group 1-92,text,true,,97819,272,3,3,https://karaokeivan.com/index.php/login/,336,0,170
+1773808851793,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-92,text,true,,1221,136,3,3,http://karaokeivan.com/index.php/login/,336,0,170
+1773808852130,5577,HTTP Request-1,200,OK,Thread Group 1-92,text,true,,96598,136,3,3,https://karaokeivan.com/index.php/login/,5045,0,323
+1773808851897,6318,HTTP Request,200,OK,Thread Group 1-93,text,true,,97819,272,2,2,https://karaokeivan.com/index.php/login/,313,0,156
+1773808851897,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-93,text,true,,1221,136,2,2,http://karaokeivan.com/index.php/login/,313,0,156
+1773808852211,6004,HTTP Request-1,200,OK,Thread Group 1-93,text,true,,96598,136,2,2,https://karaokeivan.com/index.php/login/,5471,0,329
+1773808852395,6516,HTTP Request,200,OK,Thread Group 1-98,text,true,,97811,272,1,1,https://karaokeivan.com/index.php/login/,339,0,170
+1773808852395,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-98,text,true,,1220,136,1,1,http://karaokeivan.com/index.php/login/,339,0,170
+1773808852736,6175,HTTP Request-1,200,OK,Thread Group 1-98,text,true,,96591,136,1,1,https://karaokeivan.com/index.php/login/,5675,0,355
+1773809093238,1817,HTTP Request,200,OK,Thread Group 1-2,text,true,,97818,272,29,29,https://karaokeivan.com/index.php/login/,303,0,151
+1773809093238,303,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,1221,136,29,29,http://karaokeivan.com/index.php/login/,303,0,151
+1773809093542,1513,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,96597,136,29,29,https://karaokeivan.com/index.php/login/,978,0,326
+1773809093434,1891,HTTP Request,200,OK,Thread Group 1-4,text,true,,97818,272,31,31,https://karaokeivan.com/index.php/login/,311,0,157
+1773809093434,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,1221,136,31,31,http://karaokeivan.com/index.php/login/,311,0,157
+1773809093746,1579,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,96597,136,31,31,https://karaokeivan.com/index.php/login/,1009,0,353
+1773809093634,1843,HTTP Request,200,OK,Thread Group 1-6,text,true,,97811,272,32,32,https://karaokeivan.com/index.php/login/,316,0,163
+1773809093634,316,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,1220,136,32,32,http://karaokeivan.com/index.php/login/,316,0,163
+1773809093951,1526,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,96591,136,32,32,https://karaokeivan.com/index.php/login/,1135,0,333
+1773809093142,2472,HTTP Request,200,OK,Thread Group 1-1,text,true,,97817,272,32,32,https://karaokeivan.com/index.php/login/,394,0,243
+1773809093142,394,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,1220,136,32,32,http://karaokeivan.com/index.php/login/,394,0,243
+1773809093537,2077,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,96597,136,32,32,https://karaokeivan.com/index.php/login/,1500,0,350
+1773809093834,1811,HTTP Request,200,OK,Thread Group 1-8,text,true,,97817,272,31,31,https://karaokeivan.com/index.php/login/,313,0,157
+1773809093834,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,1220,136,31,31,http://karaokeivan.com/index.php/login/,313,0,157
+1773809094148,1497,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,96597,136,31,31,https://karaokeivan.com/index.php/login/,954,0,313
+1773809094036,1852,HTTP Request,200,OK,Thread Group 1-10,text,true,,97810,272,33,33,https://karaokeivan.com/index.php/login/,355,0,176
+1773809094036,355,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,355,0,176
+1773809094392,1496,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,96590,136,33,33,https://karaokeivan.com/index.php/login/,1113,0,316
+1773809094161,1841,HTTP Request,200,OK,Thread Group 1-11,text,true,,97811,272,33,33,https://karaokeivan.com/index.php/login/,338,0,169
+1773809094161,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,338,0,169
+1773809094499,1503,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,96591,136,33,33,https://karaokeivan.com/index.php/login/,1126,0,317
+1773809093346,2899,HTTP Request,200,OK,Thread Group 1-3,text,true,,97810,272,34,34,https://karaokeivan.com/index.php/login/,312,0,156
+1773809093346,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,1220,136,34,34,http://karaokeivan.com/index.php/login/,312,0,156
+1773809093660,2585,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,96590,136,34,34,https://karaokeivan.com/index.php/login/,2172,0,358
+1773809094543,1838,HTTP Request,200,OK,Thread Group 1-15,text,true,,97817,272,35,35,https://karaokeivan.com/index.php/login/,301,0,152
+1773809094543,301,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,301,0,152
+1773809094844,1537,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,96597,136,35,35,https://karaokeivan.com/index.php/login/,992,0,332
+1773809093735,2830,HTTP Request,200,OK,Thread Group 1-7,text,true,,97818,272,36,36,https://karaokeivan.com/index.php/login/,330,0,166
+1773809093735,330,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,1220,136,36,36,http://karaokeivan.com/index.php/login/,330,0,166
+1773809094066,2499,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,96598,136,36,36,https://karaokeivan.com/index.php/login/,1968,0,325
+1773809094842,1887,HTTP Request,200,OK,Thread Group 1-18,text,true,,97817,272,36,36,https://karaokeivan.com/index.php/login/,307,0,153
+1773809094842,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,1220,136,36,36,http://karaokeivan.com/index.php/login/,307,0,153
+1773809095151,1578,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,96597,136,36,36,https://karaokeivan.com/index.php/login/,1009,0,355
+1773809094342,2412,HTTP Request,200,OK,Thread Group 1-13,text,true,,97817,272,35,35,https://karaokeivan.com/index.php/login/,344,0,178
+1773809094342,344,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,344,0,178
+1773809094687,2067,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,96597,136,35,35,https://karaokeivan.com/index.php/login/,1502,0,349
+1773809094238,2935,HTTP Request,200,OK,Thread Group 1-12,text,true,,97818,272,39,39,https://karaokeivan.com/index.php/login/,337,0,166
+1773809094238,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,1220,136,39,39,http://karaokeivan.com/index.php/login/,337,0,166
+1773809094575,2598,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,96598,136,39,39,https://karaokeivan.com/index.php/login/,2023,0,365
+1773809095362,1882,HTTP Request,200,OK,Thread Group 1-23,text,true,,97817,272,38,38,https://karaokeivan.com/index.php/login/,307,0,152
+1773809095362,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,1220,136,38,38,http://karaokeivan.com/index.php/login/,307,0,152
+1773809095670,1574,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,96597,136,38,38,https://karaokeivan.com/index.php/login/,1006,0,351
+1773809094442,2804,HTTP Request,200,OK,Thread Group 1-14,text,true,,97810,272,37,37,https://karaokeivan.com/index.php/login/,305,0,153
+1773809094442,305,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,305,0,153
+1773809094748,2498,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,96590,136,37,37,https://karaokeivan.com/index.php/login/,2123,0,322
+1773809095042,2311,HTTP Request,200,OK,Thread Group 1-20,text,true,,97817,272,37,37,https://karaokeivan.com/index.php/login/,313,0,154
+1773809095042,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,313,0,154
+1773809095355,1998,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,96597,136,37,37,https://karaokeivan.com/index.php/login/,1463,0,326
+1773809095858,1827,HTTP Request,200,OK,Thread Group 1-28,text,true,,97818,272,40,40,https://karaokeivan.com/index.php/login/,308,0,157
+1773809095858,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,308,0,157
+1773809096166,1519,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,96598,136,40,40,https://karaokeivan.com/index.php/login/,967,0,331
+1773809094943,2812,HTTP Request,200,OK,Thread Group 1-19,text,true,,97810,272,40,40,https://karaokeivan.com/index.php/login/,315,0,157
+1773809094943,315,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,315,0,157
+1773809095259,2496,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,96590,136,40,40,https://karaokeivan.com/index.php/login/,2128,0,324
+1773809095960,1802,HTTP Request,200,OK,Thread Group 1-29,text,true,,97810,272,39,39,https://karaokeivan.com/index.php/login/,306,0,153
+1773809095960,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,1220,136,39,39,http://karaokeivan.com/index.php/login/,306,0,153
+1773809096266,1496,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,96590,136,39,39,https://karaokeivan.com/index.php/login/,1118,0,319
+1773809095573,2403,HTTP Request,200,OK,Thread Group 1-25,text,true,,97810,272,40,40,https://karaokeivan.com/index.php/login/,310,0,154
+1773809095573,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,310,0,154
+1773809095884,2092,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,96590,136,40,40,https://karaokeivan.com/index.php/login/,1669,0,353
+1773809095474,2830,HTTP Request,200,OK,Thread Group 1-24,text,true,,97810,272,42,42,https://karaokeivan.com/index.php/login/,331,0,165
+1773809095474,331,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,1220,136,42,42,http://karaokeivan.com/index.php/login/,331,0,165
+1773809095806,2498,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,96590,136,42,42,https://karaokeivan.com/index.php/login/,2123,0,321
+1773809093936,4413,HTTP Request,200,OK,Thread Group 1-9,text,true,,97817,272,41,41,https://karaokeivan.com/index.php/login/,334,0,166
+1773809093936,334,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,1220,136,41,41,http://karaokeivan.com/index.php/login/,334,0,166
+1773809094271,4078,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,96597,136,41,41,https://karaokeivan.com/index.php/login/,3504,0,348
+1773809096456,1912,HTTP Request,200,OK,Thread Group 1-34,text,true,,97811,272,41,41,https://karaokeivan.com/index.php/login/,331,0,166
+1773809096456,331,HTTP Request-0,301,Moved Permanently,Thread Group 1-34,text,true,,1220,136,41,41,http://karaokeivan.com/index.php/login/,331,0,166
+1773809096788,1580,HTTP Request-1,200,OK,Thread Group 1-34,text,true,,96591,136,41,41,https://karaokeivan.com/index.php/login/,1159,0,347
+1773809096655,1849,HTTP Request,200,OK,Thread Group 1-36,text,true,,97810,272,41,41,https://karaokeivan.com/index.php/login/,341,0,172
+1773809096655,341,HTTP Request-0,301,Moved Permanently,Thread Group 1-36,text,true,,1220,136,41,41,http://karaokeivan.com/index.php/login/,341,0,172
+1773809096997,1507,HTTP Request-1,200,OK,Thread Group 1-36,text,true,,96590,136,41,41,https://karaokeivan.com/index.php/login/,1121,0,314
+1773809096954,1856,HTTP Request,200,OK,Thread Group 1-39,text,true,,97810,272,43,43,https://karaokeivan.com/index.php/login/,337,0,168
+1773809096954,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-39,text,true,,1220,136,43,43,http://karaokeivan.com/index.php/login/,337,0,168
+1773809097292,1518,HTTP Request-1,200,OK,Thread Group 1-39,text,true,,96590,136,43,43,https://karaokeivan.com/index.php/login/,1125,0,329
+1773809096556,2289,HTTP Request,200,OK,Thread Group 1-35,text,true,,97810,272,42,42,https://karaokeivan.com/index.php/login/,312,0,156
+1773809096556,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-35,text,true,,1220,136,42,42,http://karaokeivan.com/index.php/login/,312,0,156
+1773809096868,1977,HTTP Request-1,200,OK,Thread Group 1-35,text,true,,96590,136,42,42,https://karaokeivan.com/index.php/login/,1615,0,318
+1773809097056,1934,HTTP Request,200,OK,Thread Group 1-40,text,true,,97811,272,43,43,https://karaokeivan.com/index.php/login/,339,0,170
+1773809097056,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-40,text,true,,1220,136,43,43,http://karaokeivan.com/index.php/login/,339,0,170
+1773809097396,1594,HTTP Request-1,200,OK,Thread Group 1-40,text,true,,96591,136,43,43,https://karaokeivan.com/index.php/login/,1167,0,355
+1773809096170,2824,HTTP Request,200,OK,Thread Group 1-31,text,true,,97818,272,42,42,https://karaokeivan.com/index.php/login/,309,0,153
+1773809096170,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-31,text,true,,1221,136,42,42,http://karaokeivan.com/index.php/login/,309,0,153
+1773809096481,2513,HTTP Request-1,200,OK,Thread Group 1-31,text,true,,96597,136,42,42,https://karaokeivan.com/index.php/login/,1975,0,338
+1773809096061,3311,HTTP Request,200,OK,Thread Group 1-30,text,true,,97817,272,45,45,https://karaokeivan.com/index.php/login/,305,0,150
+1773809096061,305,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,305,0,150
+1773809096366,3006,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,96597,136,45,45,https://karaokeivan.com/index.php/login/,2476,0,331
+1773809094642,4816,HTTP Request,200,OK,Thread Group 1-16,text,true,,97811,272,45,45,https://karaokeivan.com/index.php/login/,305,0,153
+1773809094642,305,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,305,0,153
+1773809094948,4510,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,96591,136,45,45,https://karaokeivan.com/index.php/login/,4122,0,320
+1773809093535,5948,HTTP Request,200,OK,Thread Group 1-5,text,true,,97817,272,44,44,https://karaokeivan.com/index.php/login/,338,0,169
+1773809093535,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,338,0,169
+1773809093874,5609,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,96597,136,44,44,https://karaokeivan.com/index.php/login/,5015,0,356
+1773809095760,3812,HTTP Request,200,OK,Thread Group 1-27,text,true,,97810,272,44,44,https://karaokeivan.com/index.php/login/,301,0,150
+1773809095760,301,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,301,0,150
+1773809096062,3510,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,96590,136,44,44,https://karaokeivan.com/index.php/login/,3120,0,317
+1773809097556,2408,HTTP Request,200,OK,Thread Group 1-45,text,true,,97810,272,47,47,https://karaokeivan.com/index.php/login/,308,0,152
+1773809097556,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-45,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,308,0,152
+1773809097864,2100,HTTP Request-1,200,OK,Thread Group 1-45,text,true,,96590,136,47,47,https://karaokeivan.com/index.php/login/,1667,0,352
+1773809095156,4817,HTTP Request,200,OK,Thread Group 1-21,text,true,,97812,272,46,46,https://karaokeivan.com/index.php/login/,312,0,158
+1773809095156,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,312,0,158
+1773809095469,4504,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,96591,136,46,46,https://karaokeivan.com/index.php/login/,4135,0,331
+1773809096256,3841,HTTP Request,200,OK,Thread Group 1-32,text,true,,97811,272,46,46,https://karaokeivan.com/index.php/login/,333,0,167
+1773809096256,333,HTTP Request-0,301,Moved Permanently,Thread Group 1-32,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,333,0,167
+1773809096590,3507,HTTP Request-1,200,OK,Thread Group 1-32,text,true,,96590,136,46,46,https://karaokeivan.com/index.php/login/,3118,0,315
+1773809094743,5357,HTTP Request,200,OK,Thread Group 1-17,text,true,,97817,272,45,45,https://karaokeivan.com/index.php/login/,336,0,167
+1773809094743,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,1220,136,45,45,http://karaokeivan.com/index.php/login/,336,0,167
+1773809095080,5020,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,96597,136,45,45,https://karaokeivan.com/index.php/login/,4477,0,331
+1773809095674,4816,HTTP Request,200,OK,Thread Group 1-26,text,true,,97817,272,48,48,https://karaokeivan.com/index.php/login/,311,0,157
+1773809095674,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,1220,136,48,48,http://karaokeivan.com/index.php/login/,311,0,157
+1773809095986,4504,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,96597,136,48,48,https://karaokeivan.com/index.php/login/,3962,0,321
+1773809097658,2894,HTTP Request,200,OK,Thread Group 1-46,text,true,,97811,272,47,47,https://karaokeivan.com/index.php/login/,335,0,163
+1773809097658,335,HTTP Request-0,301,Moved Permanently,Thread Group 1-46,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,335,0,163
+1773809097994,2558,HTTP Request-1,200,OK,Thread Group 1-46,text,true,,96591,136,47,47,https://karaokeivan.com/index.php/login/,2160,0,343
+1773809098255,2346,HTTP Request,200,OK,Thread Group 1-52,text,true,,97817,272,47,47,https://karaokeivan.com/index.php/login/,344,0,174
+1773809098255,344,HTTP Request-0,301,Moved Permanently,Thread Group 1-52,text,true,,1220,136,47,47,http://karaokeivan.com/index.php/login/,344,0,174
+1773809098600,2001,HTTP Request-1,200,OK,Thread Group 1-52,text,true,,96597,136,47,47,https://karaokeivan.com/index.php/login/,1464,0,316
+1773809097761,2850,HTTP Request,200,OK,Thread Group 1-47,text,true,,97811,272,46,46,https://karaokeivan.com/index.php/login/,337,0,168
+1773809097761,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-47,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,337,0,168
+1773809098099,2512,HTTP Request-1,200,OK,Thread Group 1-47,text,true,,96590,136,46,46,https://karaokeivan.com/index.php/login/,2131,0,323
+1773809099155,1913,HTTP Request,200,OK,Thread Group 1-61,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,313,0,153
+1773809099155,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-61,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,313,0,153
+1773809099469,1599,HTTP Request-1,200,OK,Thread Group 1-61,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,1172,0,359
+1773809096758,4432,HTTP Request,200,OK,Thread Group 1-37,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,336,0,165
+1773809096758,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-37,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,336,0,165
+1773809097095,4095,HTTP Request-1,200,OK,Thread Group 1-37,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,3677,0,352
+1773809098853,2350,HTTP Request,200,OK,Thread Group 1-58,text,true,,97811,272,49,49,https://karaokeivan.com/index.php/login/,334,0,166
+1773809098853,334,HTTP Request-0,301,Moved Permanently,Thread Group 1-58,text,true,,1220,136,49,49,http://karaokeivan.com/index.php/login/,334,0,166
+1773809099188,2015,HTTP Request-1,200,OK,Thread Group 1-58,text,true,,96591,136,49,49,https://karaokeivan.com/index.php/login/,1627,0,325
+1773809098454,2841,HTTP Request,200,OK,Thread Group 1-54,text,true,,97810,272,49,49,https://karaokeivan.com/index.php/login/,334,0,165
+1773809098454,334,HTTP Request-0,301,Moved Permanently,Thread Group 1-54,text,true,,1220,136,49,49,http://karaokeivan.com/index.php/login/,334,0,165
+1773809098789,2506,HTTP Request-1,200,OK,Thread Group 1-54,text,true,,96590,136,49,49,https://karaokeivan.com/index.php/login/,2117,0,316
+1773809097167,4336,HTTP Request,200,OK,Thread Group 1-41,text,true,,97811,272,50,50,https://karaokeivan.com/index.php/login/,337,0,166
+1773809097167,338,HTTP Request-0,301,Moved Permanently,Thread Group 1-41,text,true,,1221,136,50,50,http://karaokeivan.com/index.php/login/,337,0,166
+1773809097506,3997,HTTP Request-1,200,OK,Thread Group 1-41,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,3621,0,318
+1773809097854,3828,HTTP Request,200,OK,Thread Group 1-48,text,true,,97811,272,51,51,https://karaokeivan.com/index.php/login/,337,0,169
+1773809097854,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-48,text,true,,1220,136,51,51,http://karaokeivan.com/index.php/login/,337,0,169
+1773809098192,3490,HTTP Request-1,200,OK,Thread Group 1-48,text,true,,96591,136,51,51,https://karaokeivan.com/index.php/login/,3123,0,323
+1773809097355,4347,HTTP Request,200,OK,Thread Group 1-43,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,334,0,165
+1773809097355,334,HTTP Request-0,301,Moved Permanently,Thread Group 1-43,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,334,0,165
+1773809097690,4012,HTTP Request-1,200,OK,Thread Group 1-43,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,3619,0,320
+1773809098954,2920,HTTP Request,200,OK,Thread Group 1-59,text,true,,97810,272,51,51,https://karaokeivan.com/index.php/login/,333,0,165
+1773809098954,333,HTTP Request-0,301,Moved Permanently,Thread Group 1-59,text,true,,1220,136,51,51,http://karaokeivan.com/index.php/login/,333,0,165
+1773809099288,2586,HTTP Request-1,200,OK,Thread Group 1-59,text,true,,96590,136,51,51,https://karaokeivan.com/index.php/login/,2172,0,360
+1773809097256,4797,HTTP Request,200,OK,Thread Group 1-42,text,true,,97810,272,52,52,https://karaokeivan.com/index.php/login/,309,0,153
+1773809097256,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-42,text,true,,1220,136,52,52,http://karaokeivan.com/index.php/login/,309,0,153
+1773809097566,4487,HTTP Request-1,200,OK,Thread Group 1-42,text,true,,96590,136,52,52,https://karaokeivan.com/index.php/login/,4121,0,317
+1773809095262,6874,HTTP Request,200,OK,Thread Group 1-22,text,true,,97811,272,51,51,https://karaokeivan.com/index.php/login/,360,0,170
+1773809095262,360,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,1221,136,51,51,http://karaokeivan.com/index.php/login/,360,0,170
+1773809095623,6513,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,96590,136,51,51,https://karaokeivan.com/index.php/login/,6133,0,325
+1773809099854,2336,HTTP Request,200,OK,Thread Group 1-68,text,true,,97818,272,50,50,https://karaokeivan.com/index.php/login/,335,0,167
+1773809099854,335,HTTP Request-0,301,Moved Permanently,Thread Group 1-68,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,335,0,167
+1773809100190,2000,HTTP Request-1,200,OK,Thread Group 1-68,text,true,,96598,136,50,50,https://karaokeivan.com/index.php/login/,1464,0,322
+1773809099354,2838,HTTP Request,200,OK,Thread Group 1-63,text,true,,97810,272,50,50,https://karaokeivan.com/index.php/login/,336,0,163
+1773809099354,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-63,text,true,,1220,136,50,50,http://karaokeivan.com/index.php/login/,336,0,163
+1773809099691,2501,HTTP Request-1,200,OK,Thread Group 1-63,text,true,,96590,136,50,50,https://karaokeivan.com/index.php/login/,2130,0,330
+1773809098054,4345,HTTP Request,200,OK,Thread Group 1-50,text,true,,97810,272,48,48,https://karaokeivan.com/index.php/login/,333,0,167
+1773809098054,333,HTTP Request-0,301,Moved Permanently,Thread Group 1-50,text,true,,1220,136,48,48,http://karaokeivan.com/index.php/login/,333,0,167
+1773809098388,4011,HTTP Request-1,200,OK,Thread Group 1-50,text,true,,96590,136,48,48,https://karaokeivan.com/index.php/login/,3622,0,322
+1773809098754,3853,HTTP Request,200,OK,Thread Group 1-57,text,true,,97818,272,47,47,https://karaokeivan.com/index.php/login/,337,0,170
+1773809098754,337,HTTP Request-0,301,Moved Permanently,Thread Group 1-57,text,true,,1221,136,47,47,http://karaokeivan.com/index.php/login/,337,0,170
+1773809099092,3515,HTTP Request-1,200,OK,Thread Group 1-57,text,true,,96597,136,47,47,https://karaokeivan.com/index.php/login/,2978,0,328
+1773809099456,3452,HTTP Request,200,OK,Thread Group 1-64,text,true,,97812,272,46,46,https://karaokeivan.com/index.php/login/,310,0,155
+1773809099456,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-64,text,true,,1221,136,46,46,http://karaokeivan.com/index.php/login/,310,0,155
+1773809099767,3141,HTTP Request-1,200,OK,Thread Group 1-64,text,true,,96591,136,46,46,https://karaokeivan.com/index.php/login/,2622,0,316
+1773809096856,6084,HTTP Request,200,OK,Thread Group 1-38,text,true,,97811,272,45,45,https://karaokeivan.com/index.php/login/,307,0,153
+1773809096856,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-38,text,true,,1221,136,45,45,http://karaokeivan.com/index.php/login/,307,0,153
+1773809097164,5776,HTTP Request-1,200,OK,Thread Group 1-38,text,true,,96590,136,45,45,https://karaokeivan.com/index.php/login/,5183,0,350
+1773809098556,4463,HTTP Request,200,OK,Thread Group 1-55,text,true,,97810,272,44,44,https://karaokeivan.com/index.php/login/,339,0,170
+1773809098556,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-55,text,true,,1220,136,44,44,http://karaokeivan.com/index.php/login/,339,0,170
+1773809098895,4124,HTTP Request-1,200,OK,Thread Group 1-55,text,true,,96590,136,44,44,https://karaokeivan.com/index.php/login/,3669,0,356
+1773809100756,2437,HTTP Request,200,OK,Thread Group 1-77,text,true,,97817,272,43,43,https://karaokeivan.com/index.php/login/,320,0,165
+1773809100756,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-77,text,true,,1220,136,43,43,http://karaokeivan.com/index.php/login/,320,0,165
+1773809101077,2116,HTTP Request-1,200,OK,Thread Group 1-77,text,true,,96597,136,43,43,https://karaokeivan.com/index.php/login/,1504,0,351
+1773809096354,6846,HTTP Request,200,OK,Thread Group 1-33,text,true,,97817,272,42,42,https://karaokeivan.com/index.php/login/,340,0,170
+1773809096354,341,HTTP Request-0,301,Moved Permanently,Thread Group 1-33,text,true,,1220,136,42,42,http://karaokeivan.com/index.php/login/,340,0,170
+1773809096696,6504,HTTP Request-1,200,OK,Thread Group 1-33,text,true,,96597,136,42,42,https://karaokeivan.com/index.php/login/,6058,0,323
+1773809097456,5912,HTTP Request,200,OK,Thread Group 1-44,text,true,,97818,272,41,41,https://karaokeivan.com/index.php/login/,308,0,152
+1773809097456,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-44,text,true,,1221,136,41,41,http://karaokeivan.com/index.php/login/,308,0,152
+1773809097772,5596,HTTP Request-1,200,OK,Thread Group 1-44,text,true,,96597,136,41,41,https://karaokeivan.com/index.php/login/,5011,0,352
+1773809100956,2438,HTTP Request,200,OK,Thread Group 1-79,text,true,,97811,272,40,40,https://karaokeivan.com/index.php/login/,340,0,169
+1773809100956,340,HTTP Request-0,301,Moved Permanently,Thread Group 1-79,text,true,,1220,136,40,40,http://karaokeivan.com/index.php/login/,340,0,169
+1773809101298,2096,HTTP Request-1,200,OK,Thread Group 1-79,text,true,,96591,136,40,40,https://karaokeivan.com/index.php/login/,1676,0,359
+1773809100171,3364,HTTP Request,200,OK,Thread Group 1-71,text,true,,97810,272,39,39,https://karaokeivan.com/index.php/login/,338,0,169
+1773809100171,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-71,text,true,,1220,136,39,39,http://karaokeivan.com/index.php/login/,338,0,169
+1773809100511,3024,HTTP Request-1,200,OK,Thread Group 1-71,text,true,,96590,136,39,39,https://karaokeivan.com/index.php/login/,2636,0,328
+1773809100857,2911,HTTP Request,200,OK,Thread Group 1-78,text,true,,97810,272,38,38,https://karaokeivan.com/index.php/login/,310,0,155
+1773809100857,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-78,text,true,,1220,136,38,38,http://karaokeivan.com/index.php/login/,310,0,155
+1773809101169,2599,HTTP Request-1,200,OK,Thread Group 1-78,text,true,,96590,136,38,38,https://karaokeivan.com/index.php/login/,2167,0,352
+1773809101056,2834,HTTP Request,200,OK,Thread Group 1-80,text,true,,97811,272,37,37,https://karaokeivan.com/index.php/login/,302,0,150
+1773809101056,302,HTTP Request-0,301,Moved Permanently,Thread Group 1-80,text,true,,1220,136,37,37,http://karaokeivan.com/index.php/login/,302,0,150
+1773809101360,2530,HTTP Request-1,200,OK,Thread Group 1-80,text,true,,96591,136,37,37,https://karaokeivan.com/index.php/login/,2134,0,329
+1773809098355,5587,HTTP Request,200,OK,Thread Group 1-53,text,true,,97811,272,36,36,https://karaokeivan.com/index.php/login/,340,0,168
+1773809098355,340,HTTP Request-0,301,Moved Permanently,Thread Group 1-53,text,true,,1221,136,36,36,http://karaokeivan.com/index.php/login/,340,0,168
+1773809098696,5246,HTTP Request-1,200,OK,Thread Group 1-53,text,true,,96590,136,36,36,https://karaokeivan.com/index.php/login/,4752,0,407
+1773809100354,3811,HTTP Request,200,OK,Thread Group 1-73,text,true,,97810,272,35,35,https://karaokeivan.com/index.php/login/,306,0,153
+1773809100354,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-73,text,true,,1220,136,35,35,http://karaokeivan.com/index.php/login/,306,0,153
+1773809100661,3504,HTTP Request-1,200,OK,Thread Group 1-73,text,true,,96590,136,35,35,https://karaokeivan.com/index.php/login/,3133,0,327
+1773809097955,6311,HTTP Request,200,OK,Thread Group 1-49,text,true,,97811,272,34,34,https://karaokeivan.com/index.php/login/,307,0,152
+1773809097955,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-49,text,true,,1221,136,34,34,http://karaokeivan.com/index.php/login/,307,0,152
+1773809098263,6003,HTTP Request-1,200,OK,Thread Group 1-49,text,true,,96590,136,34,34,https://karaokeivan.com/index.php/login/,5619,0,314
+1773809099054,5329,HTTP Request,200,OK,Thread Group 1-60,text,true,,97811,272,33,33,https://karaokeivan.com/index.php/login/,307,0,153
+1773809099054,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-60,text,true,,1220,136,33,33,http://karaokeivan.com/index.php/login/,307,0,153
+1773809099362,5021,HTTP Request-1,200,OK,Thread Group 1-60,text,true,,96591,136,33,33,https://karaokeivan.com/index.php/login/,4640,0,337
+1773809101566,2877,HTTP Request,200,OK,Thread Group 1-85,text,true,,97810,272,32,32,https://karaokeivan.com/index.php/login/,341,0,169
+1773809101566,342,HTTP Request-0,301,Moved Permanently,Thread Group 1-85,text,true,,1220,136,32,32,http://karaokeivan.com/index.php/login/,341,0,169
+1773809101908,2535,HTTP Request-1,200,OK,Thread Group 1-85,text,true,,96590,136,32,32,https://karaokeivan.com/index.php/login/,2137,0,333
+1773809101456,3302,HTTP Request,200,OK,Thread Group 1-84,text,true,,97810,272,31,31,https://karaokeivan.com/index.php/login/,303,0,154
+1773809101456,303,HTTP Request-0,301,Moved Permanently,Thread Group 1-84,text,true,,1220,136,31,31,http://karaokeivan.com/index.php/login/,303,0,154
+1773809101760,2998,HTTP Request-1,200,OK,Thread Group 1-84,text,true,,96590,136,31,31,https://karaokeivan.com/index.php/login/,2623,0,321
+1773809099957,4848,HTTP Request,200,OK,Thread Group 1-69,text,true,,97817,272,30,30,https://karaokeivan.com/index.php/login/,307,0,150
+1773809099957,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-69,text,true,,1220,136,30,30,http://karaokeivan.com/index.php/login/,307,0,150
+1773809100265,4540,HTTP Request-1,200,OK,Thread Group 1-69,text,true,,96597,136,30,30,https://karaokeivan.com/index.php/login/,3983,0,322
+1773809103064,1813,HTTP Request,200,OK,Thread Group 1-100,text,true,,97811,272,30,30,https://karaokeivan.com/index.php/login/,307,0,154
+1773809103064,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-100,text,true,,1220,136,30,30,http://karaokeivan.com/index.php/login/,307,0,154
+1773809103372,1505,HTTP Request-1,200,OK,Thread Group 1-100,text,true,,96591,136,30,30,https://karaokeivan.com/index.php/login/,1127,0,325
+1773809099655,5323,HTTP Request,200,OK,Thread Group 1-66,text,true,,97811,272,28,28,https://karaokeivan.com/index.php/login/,306,0,153
+1773809099655,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-66,text,true,,1221,136,28,28,http://karaokeivan.com/index.php/login/,306,0,153
+1773809099962,5016,HTTP Request-1,200,OK,Thread Group 1-66,text,true,,96590,136,28,28,https://karaokeivan.com/index.php/login/,4633,0,323
+1773809098158,6923,HTTP Request,200,OK,Thread Group 1-51,text,true,,97811,272,27,27,https://karaokeivan.com/index.php/login/,312,0,156
+1773809098158,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-51,text,true,,1221,136,27,27,http://karaokeivan.com/index.php/login/,312,0,156
+1773809098471,6610,HTTP Request-1,200,OK,Thread Group 1-51,text,true,,96590,136,27,27,https://karaokeivan.com/index.php/login/,6177,0,354
+1773809102463,2826,HTTP Request,200,OK,Thread Group 1-94,text,true,,97817,272,26,26,https://karaokeivan.com/index.php/login/,308,0,155
+1773809102463,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-94,text,true,,1220,136,26,26,http://karaokeivan.com/index.php/login/,308,0,155
+1773809102773,2516,HTTP Request-1,200,OK,Thread Group 1-94,text,true,,96597,136,26,26,https://karaokeivan.com/index.php/login/,1975,0,324
+1773809100556,4833,HTTP Request,200,OK,Thread Group 1-75,text,true,,97810,272,25,25,https://karaokeivan.com/index.php/login/,309,0,157
+1773809100556,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-75,text,true,,1220,136,25,25,http://karaokeivan.com/index.php/login/,309,0,157
+1773809100866,4523,HTTP Request-1,200,OK,Thread Group 1-75,text,true,,96590,136,25,25,https://karaokeivan.com/index.php/login/,4145,0,3346
+1773809099555,5913,HTTP Request,200,OK,Thread Group 1-65,text,true,,97818,272,24,24,https://karaokeivan.com/index.php/login/,310,0,154
+1773809099555,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-65,text,true,,1220,136,24,24,http://karaokeivan.com/index.php/login/,310,0,154
+1773809099866,5602,HTTP Request-1,200,OK,Thread Group 1-65,text,true,,96598,136,24,24,https://karaokeivan.com/index.php/login/,5009,0,349
+1773809102161,3368,HTTP Request,200,OK,Thread Group 1-91,text,true,,97810,272,23,23,https://karaokeivan.com/index.php/login/,309,0,156
+1773809102161,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-91,text,true,,1220,136,23,23,http://karaokeivan.com/index.php/login/,309,0,156
+1773809102471,3058,HTTP Request-1,200,OK,Thread Group 1-91,text,true,,96590,136,23,23,https://karaokeivan.com/index.php/login/,2660,0,344
+1773809098655,6929,HTTP Request,200,OK,Thread Group 1-56,text,true,,97810,272,22,22,https://karaokeivan.com/index.php/login/,311,0,156
+1773809098655,311,HTTP Request-0,301,Moved Permanently,Thread Group 1-56,text,true,,1220,136,22,22,http://karaokeivan.com/index.php/login/,311,0,156
+1773809098966,6618,HTTP Request-1,200,OK,Thread Group 1-56,text,true,,96590,136,22,22,https://karaokeivan.com/index.php/login/,6183,0,366
+1773809100457,5394,HTTP Request,200,OK,Thread Group 1-74,text,true,,97811,272,21,21,https://karaokeivan.com/index.php/login/,310,0,154
+1773809100457,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-74,text,true,,1221,136,21,21,http://karaokeivan.com/index.php/login/,310,0,154
+1773809100768,5083,HTTP Request-1,200,OK,Thread Group 1-74,text,true,,96590,136,21,21,https://karaokeivan.com/index.php/login/,4674,0,360
+1773809101657,4313,HTTP Request,200,OK,Thread Group 1-86,text,true,,97811,272,20,20,https://karaokeivan.com/index.php/login/,309,0,156
+1773809101657,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-86,text,true,,1220,136,20,20,http://karaokeivan.com/index.php/login/,309,0,156
+1773809101968,4002,HTTP Request-1,200,OK,Thread Group 1-86,text,true,,96591,136,20,20,https://karaokeivan.com/index.php/login/,3628,0,326
+1773809102055,3967,HTTP Request,200,OK,Thread Group 1-90,text,true,,97811,272,19,19,https://karaokeivan.com/index.php/login/,342,0,166
+1773809102055,342,HTTP Request-0,301,Moved Permanently,Thread Group 1-90,text,true,,1221,136,19,19,http://karaokeivan.com/index.php/login/,342,0,166
+1773809102398,3624,HTTP Request-1,200,OK,Thread Group 1-90,text,true,,96590,136,19,19,https://karaokeivan.com/index.php/login/,3196,0,380
+1773809102653,3378,HTTP Request,200,OK,Thread Group 1-96,text,true,,97810,272,18,18,https://karaokeivan.com/index.php/login/,340,0,171
+1773809102653,340,HTTP Request-0,301,Moved Permanently,Thread Group 1-96,text,true,,1220,136,18,18,http://karaokeivan.com/index.php/login/,340,0,171
+1773809102994,3037,HTTP Request-1,200,OK,Thread Group 1-96,text,true,,96590,136,18,18,https://karaokeivan.com/index.php/login/,2626,0,321
+1773809099255,6855,HTTP Request,200,OK,Thread Group 1-62,text,true,,97811,272,17,17,https://karaokeivan.com/index.php/login/,313,0,153
+1773809099255,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-62,text,true,,1221,136,17,17,http://karaokeivan.com/index.php/login/,313,0,153
+1773809099569,6541,HTTP Request-1,200,OK,Thread Group 1-62,text,true,,96590,136,17,17,https://karaokeivan.com/index.php/login/,6136,0,328
+1773809100056,6360,HTTP Request,200,OK,Thread Group 1-70,text,true,,97810,272,16,16,https://karaokeivan.com/index.php/login/,331,0,164
+1773809100056,331,HTTP Request-0,301,Moved Permanently,Thread Group 1-70,text,true,,1220,136,16,16,http://karaokeivan.com/index.php/login/,331,0,164
+1773809100388,6028,HTTP Request-1,200,OK,Thread Group 1-70,text,true,,96590,136,16,16,https://karaokeivan.com/index.php/login/,5635,0,318
+1773809099757,6804,HTTP Request,200,OK,Thread Group 1-67,text,true,,97811,272,15,15,https://karaokeivan.com/index.php/login/,308,0,155
+1773809099757,308,HTTP Request-0,301,Moved Permanently,Thread Group 1-67,text,true,,1220,136,15,15,http://karaokeivan.com/index.php/login/,308,0,155
+1773809100066,6495,HTTP Request-1,200,OK,Thread Group 1-67,text,true,,96591,136,15,15,https://karaokeivan.com/index.php/login/,6119,0,317
+1773809100657,5923,HTTP Request,200,OK,Thread Group 1-76,text,true,,97818,272,14,14,https://karaokeivan.com/index.php/login/,312,0,151
+1773809100657,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-76,text,true,,1221,136,14,14,http://karaokeivan.com/index.php/login/,312,0,151
+1773809100970,5610,HTTP Request-1,200,OK,Thread Group 1-76,text,true,,96597,136,14,14,https://karaokeivan.com/index.php/login/,5015,0,3352
+1773809101256,5440,HTTP Request,200,OK,Thread Group 1-82,text,true,,97810,272,13,13,https://karaokeivan.com/index.php/login/,312,0,155
+1773809101256,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-82,text,true,,1220,136,13,13,http://karaokeivan.com/index.php/login/,312,0,155
+1773809101569,5127,HTTP Request-1,200,OK,Thread Group 1-82,text,true,,96590,136,13,13,https://karaokeivan.com/index.php/login/,4706,0,355
+1773809102557,4477,HTTP Request,200,OK,Thread Group 1-95,text,true,,97810,272,12,12,https://karaokeivan.com/index.php/login/,383,0,213
+1773809102557,383,HTTP Request-0,301,Moved Permanently,Thread Group 1-95,text,true,,1220,136,12,12,http://karaokeivan.com/index.php/login/,383,0,213
+1773809102941,4093,HTTP Request-1,200,OK,Thread Group 1-95,text,true,,96590,136,12,12,https://karaokeivan.com/index.php/login/,3671,0,352
+1773809101755,5338,HTTP Request,200,OK,Thread Group 1-87,text,true,,97818,272,11,11,https://karaokeivan.com/index.php/login/,310,0,154
+1773809101755,310,HTTP Request-0,301,Moved Permanently,Thread Group 1-87,text,true,,1220,136,11,11,http://karaokeivan.com/index.php/login/,310,0,154
+1773809102066,5027,HTTP Request-1,200,OK,Thread Group 1-87,text,true,,96598,136,11,11,https://karaokeivan.com/index.php/login/,4486,0,342
+1773809100255,6913,HTTP Request,200,OK,Thread Group 1-72,text,true,,97812,272,10,10,https://karaokeivan.com/index.php/login/,306,0,154
+1773809100255,306,HTTP Request-0,301,Moved Permanently,Thread Group 1-72,text,true,,1221,136,10,10,http://karaokeivan.com/index.php/login/,306,0,154
+1773809100562,6606,HTTP Request-1,200,OK,Thread Group 1-72,text,true,,96591,136,10,10,https://karaokeivan.com/index.php/login/,6183,0,357
+1773809101856,5315,HTTP Request,200,OK,Thread Group 1-88,text,true,,97810,272,9,9,https://karaokeivan.com/index.php/login/,312,0,154
+1773809101856,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-88,text,true,,1220,136,9,9,http://karaokeivan.com/index.php/login/,312,0,154
+1773809102169,5002,HTTP Request-1,200,OK,Thread Group 1-88,text,true,,96590,136,9,9,https://karaokeivan.com/index.php/login/,4625,0,323
+1773809101166,6400,HTTP Request,200,OK,Thread Group 1-81,text,true,,97810,272,8,8,https://karaokeivan.com/index.php/login/,309,0,154
+1773809101166,309,HTTP Request-0,301,Moved Permanently,Thread Group 1-81,text,true,,1220,136,8,8,http://karaokeivan.com/index.php/login/,309,0,154
+1773809101476,6090,HTTP Request-1,200,OK,Thread Group 1-81,text,true,,96590,136,8,8,https://karaokeivan.com/index.php/login/,5662,0,346
+1773809102257,5478,HTTP Request,200,OK,Thread Group 1-92,text,true,,97818,272,7,7,https://karaokeivan.com/index.php/login/,345,0,172
+1773809102257,345,HTTP Request-0,301,Moved Permanently,Thread Group 1-92,text,true,,1220,136,7,7,http://karaokeivan.com/index.php/login/,345,0,172
+1773809102603,5132,HTTP Request-1,200,OK,Thread Group 1-92,text,true,,96598,136,7,7,https://karaokeivan.com/index.php/login/,4514,0,352
+1773809102859,4939,HTTP Request,200,OK,Thread Group 1-98,text,true,,97810,272,6,6,https://karaokeivan.com/index.php/login/,339,0,169
+1773809102859,339,HTTP Request-0,301,Moved Permanently,Thread Group 1-98,text,true,,1220,136,6,6,http://karaokeivan.com/index.php/login/,339,0,169
+1773809103199,4599,HTTP Request-1,200,OK,Thread Group 1-98,text,true,,96590,136,6,6,https://karaokeivan.com/index.php/login/,4172,0,348
+1773809102762,5329,HTTP Request,200,OK,Thread Group 1-97,text,true,,97818,272,5,5,https://karaokeivan.com/index.php/login/,313,0,154
+1773809102762,313,HTTP Request-0,301,Moved Permanently,Thread Group 1-97,text,true,,1221,136,5,5,http://karaokeivan.com/index.php/login/,313,0,154
+1773809103076,5015,HTTP Request-1,200,OK,Thread Group 1-97,text,true,,96597,136,5,5,https://karaokeivan.com/index.php/login/,4468,0,317
+1773809101356,6828,HTTP Request,200,OK,Thread Group 1-83,text,true,,97812,272,4,4,https://karaokeivan.com/index.php/login/,304,0,152
+1773809101356,305,HTTP Request-0,301,Moved Permanently,Thread Group 1-83,text,true,,1221,136,4,4,http://karaokeivan.com/index.php/login/,304,0,152
+1773809101662,6522,HTTP Request-1,200,OK,Thread Group 1-83,text,true,,96591,136,4,4,https://karaokeivan.com/index.php/login/,6138,0,324
+1773809101953,6349,HTTP Request,200,OK,Thread Group 1-89,text,true,,97817,272,3,3,https://karaokeivan.com/index.php/login/,312,0,153
+1773809101953,312,HTTP Request-0,301,Moved Permanently,Thread Group 1-89,text,true,,1220,136,3,3,http://karaokeivan.com/index.php/login/,312,0,153
+1773809102266,6036,HTTP Request-1,200,OK,Thread Group 1-89,text,true,,96597,136,3,3,https://karaokeivan.com/index.php/login/,5469,0,321
+1773809102954,5836,HTTP Request,200,OK,Thread Group 1-99,text,true,,97811,272,2,2,https://karaokeivan.com/index.php/login/,314,0,158
+1773809102954,314,HTTP Request-0,301,Moved Permanently,Thread Group 1-99,text,true,,1221,136,2,2,http://karaokeivan.com/index.php/login/,314,0,158
+1773809103269,5521,HTTP Request-1,200,OK,Thread Group 1-99,text,true,,96590,136,2,2,https://karaokeivan.com/index.php/login/,5132,0,326
+1773809102352,7039,HTTP Request,200,OK,Thread Group 1-93,text,true,,97811,272,1,1,https://karaokeivan.com/index.php/login/,403,0,156
+1773809102352,403,HTTP Request-0,301,Moved Permanently,Thread Group 1-93,text,true,,1221,136,1,1,http://karaokeivan.com/index.php/login/,403,0,156
+1773809102755,6636,HTTP Request-1,200,OK,Thread Group 1-93,text,true,,96590,136,1,1,https://karaokeivan.com/index.php/login/,6202,0,355
